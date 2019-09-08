@@ -1,5 +1,5 @@
 # FE610-StochasticCalculus
-This repository includes Yifu's assignments for the course Object-Oriented-Programming 22:839:614 of Master of Quantitative Finance program in Rutgers University.
+This repository includes Yifu's assignments for the course FE-610 Stochastic Calculus for Fin of Master of Financial Engineering program in Stevens Institute of Technology.
 
 Semester: fall 2018<br/>
 Instructor: Thomas Lonon<br/>
